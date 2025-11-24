@@ -27,4 +27,3 @@ Common :
         Couleurs
         Fonts + tailles
         Header
-        Footer
