@@ -160,6 +160,9 @@
   }
 }
 @layer utilities {
+  .static {
+    position: static;
+  }
   .bg-sky-950 {
     background-color: var(--color-sky-950);
   }
